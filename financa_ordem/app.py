@@ -39,7 +39,7 @@ with st.sidebar:
                     despesas, descricao.strip(), valor, categoria, data_despesa.isoformat()
                 )
                 salvar_despesas(despesas, ARQUIVO)
-                st.rerun()
+                st.experimental_rerun()
 
 if despesas.empty:
     st.info("Cadastre uma despesa na barra lateral para começar.")
