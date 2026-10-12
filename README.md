@@ -1,2 +1,10 @@
-# G32_Ordenacao_EDA2-2026.2
-Repositório destinado ao trabalho de Ordenação da matéria de EDA2.
+# Finanças em Ordem — Analisador de Gastos Pessoais
+
+## Integrantes
+| Matrícula | Nome |
+| :--- | :--- |
+| 231027005 | Maria Samara |
+| 2310391400 | Marjorie Mitzi |
+
+##  Vídeo da Apresentação
+**
